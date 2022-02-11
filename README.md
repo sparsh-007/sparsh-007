@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm sparsh kapoor</h1>
+<h1 align="center">Hi 😄 I'm sparsh kapoor <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"</h1>
 <h3 align="center">A passionate frontend Web developer with a knack for iOS development along with UI UX</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sparsh-007&label=Profile%20views&color=0e75b6&style=flat" alt="sparsh-007" /> </p>
@@ -35,6 +35,7 @@
       />
 	<img
         width="750em"
-        src="https://github-readme-stats.vercel.app/api/wakatime?username=sparsh_007&hide_border=true&bg_color=232e48&area=true&text_color=ffffff&custom_title=Coding+be+like+;)&title_color=ffffff&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/wakatime?username=@sparsh_007&hide_border=true&bg_color=232e48&area=true&text_color=ffffff&custom_title=Coding+be+like+;)&title_color=ffffff&layout=compact"
       />
   </p>
+ 
