@@ -41,4 +41,4 @@
         src="https://github-readme-stats.vercel.app/api/wakatime?username=sparsh_007&hide_border=true&bg_color=232e48&area=true&text_color=ffffff&custom_title=Coding+be+like+;)&title_color=ffffff&layout=compact"
       />
   </p>
- <p align="center" ><img src="https://github.com/sparsh-007/README/blob/main/images/stat.svg" alt="Alternative Text"/></P>
+ 
