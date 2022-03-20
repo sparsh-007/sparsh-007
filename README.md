@@ -7,6 +7,12 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sparsh-007&label=Profile%20views&color=0e75b6&style=flat" alt="sparsh-007" /> </p>
 
 - 📫 How to reach me **sparshkapoor43@gmail.com**
+	
+	
+	
+	
+[![wakatime](https://wakatime.com/badge/user/bf9e4861-d2b2-4c8f-a56d-ff5c5b5f5522.svg)](https://wakatime.com/@bf9e4861-d2b2-4c8f-a56d-ff5c5b5f5522)
+	
 <hr>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
