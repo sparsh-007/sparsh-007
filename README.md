@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text= &animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
-<p align="center"><img src="https://github.com/sparsh-007/sparsh-007/blob/main/Black%20and%20Pink%20Animated%20Glitch%20Gaming%20Facebook%20Cover-4.gif"/></p>
+<p align="center"><img width="750em" src="https://github.com/sparsh-007/sparsh-007/blob/main/Black%20and%20Pink%20Animated%20Glitch%20Gaming%20Facebook%20Cover-4.gif"/></p>
 <hr>
 <h1 align="center">Hi 😄 I'm sparsh kapoor <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"</h1>
 <h3 align="center">A passionate frontend Web developer with a knack for iOS development along with UI UX</h3>
