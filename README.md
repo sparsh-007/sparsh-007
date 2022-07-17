@@ -47,4 +47,9 @@
         src="https://github-readme-stats.vercel.app/api/wakatime?username=sparsh_007&hide_border=true&bg_color=232e48&area=true&text_color=ffffff&custom_title= Daily+Coding+be+like+;)&title_color=ffffff&layout=compact"
       />
   </p>
- ![Snake animation](https://github.com/sparsh-007/sparsh-007/blob/output/github-contribution-grid-snake.svg)
+	<hr>
+	<p align="center">
+	<img
+        width="auto"
+        src="https://github.com/sparsh-007/sparsh-007/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only"
+      /></p>
