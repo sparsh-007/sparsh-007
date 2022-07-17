@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 <p align="center"><img src="https://github.com/sparsh-007/sparsh-007/blob/main/Black%20and%20Pink%20Animated%20Glitch%20Gaming%20Facebook%20Cover-4.gif"/></p>
 <hr>
 <h1 align="center">Hi 😄 I'm sparsh kapoor <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"</h1>
@@ -50,3 +53,6 @@
         width="auto"
         src="https://github.com/sparsh-007/sparsh-007/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only"
       /></p>
+	<p align="center">
+  <img width="auto"src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
