@@ -38,10 +38,6 @@
         height="160em"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=sparsh-007&show_icons=true&hide_border=true&layout=compact&langs_count=6&theme=dark&bg_color=232e48&title_color=ffffff&text_color=ffffff&icon_color=ffffff"
       />
-      <img
-        width="750em"
-        src="https://activity-graph.herokuapp.com/graph?username=sparsh-007&theme=react-dark&hide_border=true&bg_color=232e48&area=true"
-      />
 	<img
         width="750em"
         src="https://github-readme-stats.vercel.app/api/wakatime?username=sparsh_007"&hide_border=true&bg_color=232e48&area=true&text_color=ffffff&custom_title= Daily+Coding+be+like+;)&title_color=ffffff&layout=compact"
